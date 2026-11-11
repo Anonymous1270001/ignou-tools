@@ -4,6 +4,10 @@ MCP server that resolves IGNOU course codes to term-end question papers (PYQs),
 official study material (SLM books) **and** assignments (TMA), then downloads them as
 cleanly named PDFs.
 
+> **Disclaimer:** this whole thing was vibe-coded in a few hours. I honestly don't fully
+> know how it works — I just know that it does. Read the code at your own risk, expect the
+> occasional surprise, and don't judge the commit history.
+
 One call does the whole job — no per-session lookups, no guessed URLs, minimal tokens:
 
 ```
