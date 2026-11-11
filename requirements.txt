@@ -1,0 +1,3 @@
+mcp>=2.0
+requests>=2.31
+truststore>=0.9
